@@ -1,0 +1,11 @@
+{
+    "author": "Tarry",
+    "description": "",
+    "jcmp_dependencies": [
+        "chat"
+    ],
+    "license": "MIT",
+    "main": "main.js",
+    "name": "keycatcher",
+    "version": "1.0.0"
+}
